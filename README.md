@@ -21,11 +21,11 @@
 
 📊 Key Highlights
 
--📌 Analyzed 3,000+ rows of banking data
--👥 Covered multiple client segments and account categories
--💰 Evaluated deposits, balances, and financial performance
--📈 Designed interactive Power BI dashboards
--🧹 Performed data cleaning, transformation, and validation  
+- Analyzed 3,000+ rows of banking data
+- Covered multiple client segments and account categories
+- Evaluated deposits, balances, and financial performance
+- Designed interactive Power BI dashboards
+- Performed data cleaning, transformation, and validation  
 
 📈 Key Insights
 
