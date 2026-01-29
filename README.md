@@ -1,4 +1,4 @@
-# Banking-Customer-Analysis
+# Financial Risk & Customer Banking Analysis
 📊 Banking Customer Analysis
 - Banking Customer Analysis is an end-to-end data analysis project focused on deriving meaningful insights from banking sector data.
 - The project analyzes customer demographics, account types, deposits, and financial behavior to support data-driven decision-making.
